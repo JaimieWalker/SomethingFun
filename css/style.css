@@ -1,12 +1,13 @@
 *{
 
-	background-color: pink;
+	background-color: green;
 }
 
 h1:hover:after {
-	content: " REEEEEEEEEEE OFF MY BOARD NORMIE";
+	content: url('http://i0.kym-cdn.com/photos/images/original/000/915/652/b49.gif') " REEEEEEEEEEE OFF MY BOARD NORMIE";
+	display: block;
+	 
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
-h1:hover:before{
-	content: url('http://i0.kym-cdn.com/photos/images/original/000/915/652/b49.gif')
-}
