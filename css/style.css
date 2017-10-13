@@ -4,5 +4,9 @@
 }
 
 h1:hover:after {
-	content: " REEEEEEEEEEE";
+	content: " REEEEEEEEEEE OFF MY BOARD NORMIE";
+}
+
+h1:hover:before{
+	content: url('http://i0.kym-cdn.com/photos/images/original/000/915/652/b49.gif')
 }
