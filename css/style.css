@@ -1,13 +1,9 @@
-*{
-
-	background-color: green;
+#title{
+	text-align: center;
+	border: 5px solid;
 }
 
-h1:hover:after {
-	content: url('http://i0.kym-cdn.com/photos/images/original/000/915/652/b49.gif') " REEEEEEEEEEE OFF MY BOARD NORMIE";
-	display: block;
-	 
-	background-size: cover;
-	background-repeat: no-repeat;
+#intro{
+	text-align: center;
+	border: 5px dotted;
 }
-
