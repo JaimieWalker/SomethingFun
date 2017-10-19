@@ -1,9 +1,19 @@
 #title{
 	text-align: center;
 	border: 5px solid;
+	display: none;
 }
 
 #intro{
 	text-align: center;
 	border: 5px dotted;
+	display: none;
 }
+
+#start{
+	text-align: center;
+	border: 5px ridge;
+	display: none;
+}
+
+
